@@ -100,4 +100,8 @@ If you prefer to run ImageWeave with Docker, you can use the `docker-compose.yml
 
 
 # Bibliography
+https://dev.to/itsahsanmangal/building-a-robust-cicd-pipeline-with-docker-a-comprehensive-guide-4k8b
 
+https://medium.com/@clever.tech.memes/streamlit-authentication-and-user-management-including-login-register-logout-functionalities-with-27f7bc04b358?source=rss------entrepreneurship-5
+
+https://github.com/JimmyHHua/opencv_tutorials
