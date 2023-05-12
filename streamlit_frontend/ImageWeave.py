@@ -24,7 +24,7 @@ with tab3:
     st.subheader("PyxelCollective is the creator of this app. The team consists of 3 members (Sfinarolakis Stefanos (front-end, documentation), Tripakis Nikolaos(documentation, front-end), Kafteranis Konstantinos(back-end, textureGen)).")
     st.divider()
     st.header(":red[Github and Documentation]")
-    st.subheader("Github: https://github.com/PYxelcollective/Django")
-    st.subheader("Documentation:http://127.0.0.1:3000/docs/_build/html/index.html")    
+    st.subheader("Github: https://github.com/PYxelcollective/ImageWeave")
+    st.subheader("https://imageweave.readthedocs.iO")    
 
 st.sidebar.success("Select a mode above.")
