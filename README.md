@@ -2,6 +2,11 @@
 
 ImageWeave is a web application built using Python, Django API, and Streamlit that allows users to upload images and generate texture maps from them. The generated texture maps can be shared online and used in other projects.
 
+ [ ImageWeave Deployed Sample](https://inf2021090-streamlit-test-main-qddvdv.streamlit.app/)
+ 
+ [Documentation](https://imageweave.readthedocs.io)
+ 
+ [Youtube Demo](https://youtu.be/3NEKL3x9B3A)
 ## Features
 
 - **Image Upload:** Users can upload images in various formats such as JPG, PNG, and BMP.
