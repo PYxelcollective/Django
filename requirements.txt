@@ -11,5 +11,5 @@ requests
 click
 sphinx
 sphinx_rtd_theme
-sphinx.ext.autodoc
-sphinx.ext.napoleon
+sphinx-autodoc-typehints 
+sphinxcontrib-napoleon
